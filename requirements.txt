@@ -1,0 +1,15 @@
+# LlamaIndex principal
+llama-index
+
+# Embeddings do HuggingFace
+llama-index-embeddings-huggingface
+
+# Integração com Pinecone
+pinecone-client
+llama-index.vector-stores.pinecone
+
+# LLMs Groq
+llama-index-llms-groq
+
+# Interface Gradio
+gradio
